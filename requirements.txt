@@ -1,0 +1,12 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain-community
+langchain
+langchain-mongodb
+pypdf
+pymongo
+langchain-openai
+tiktoke
